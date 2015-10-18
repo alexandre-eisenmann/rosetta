@@ -1,4 +1,4 @@
-## ROSETTA ##
+## Rosetta ##
 
 Very simple pure ruby program that recognises which language a given file was written.
 
