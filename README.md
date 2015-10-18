@@ -38,4 +38,4 @@ ruby rosetta.rb -usage     => show this options
 -------------------------------------------------------
 TEXT.txt was written in ENGLISH
 -------------------------------------------------------
-``
+```
