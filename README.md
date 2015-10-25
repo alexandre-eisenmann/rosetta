@@ -26,6 +26,10 @@ the better. The reason is that very small files doesn't necessarily follow the s
 the language. That being said, the program, surprisingly, was able to recognize the languages of really 
 small files, containing just one phrase of 30 to 50 caracters
 
+##Instalation
+
+Unpack and run bundle. To run the test, just type rspec
+
 ##Usage##
 ```
 ruby rosetta.rb <filePath> => identify which language <filePath> was written
